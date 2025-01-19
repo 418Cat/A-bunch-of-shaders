@@ -13,14 +13,22 @@ Shaders are sorted in the `./3D` and `./2D` folders depending on the type of sce
 <br>
 <br>
 
-## List of all shaders in this repo:
+## This repo's shaders list:
 - 2D:
-  - Quadtree visualizer
-  - Function visualizer
-- 3D:
-  - Very simple ray tracer
+  - ####[Quadtree visualizer](https://www.shadertoy.com/view/4X3BRr)
+ &emsp; Moving the mouse changes how the quadtree is built
+<br>
 
-### To check them out, the shaders can be found on my Shadertoy profile: [www.shadertoy.com/user/418cat](https://www.shadertoy.com/user/418cat)
+  - ####[Function visualizer](https://www.shadertoy.com/view/XfVcz3)
+&emsp; Displays 2D real functions with a bunch of options
+<br>
+
+  - ####[FPS Graph](https://www.shadertoy.com/view/X3tBWr)
+&emsp; A configurable & easy to integrate shader to show the scene's performance history
+<br>
+- 3D:
+  - ####[Very simple ray tracer](https://www.shadertoy.com/view/M3KcRw)
+&emsp; A basic ray tracer wrote in a few hours after reading the great [Ray tracing in one weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
 
 ___
-All the code in this repo is under the MIT Licence. It can be downloaded, modified in any way and shared with anyone. 
+All the code in this repo is under the MIT Licence.
